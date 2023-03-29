@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN mkdir pradhep
+RUN mkdir Mani
