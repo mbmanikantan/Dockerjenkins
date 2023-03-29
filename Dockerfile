@@ -1,2 +1,2 @@
-FROM sandbox
+FROM ubuntu
 RUN mkdir Mani
